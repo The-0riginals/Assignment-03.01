@@ -129,6 +129,10 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Documents\HCMUS\ATPHDL\Z_2023_22\03.01\19120659-20120382-lab3_1.docx" />
+    <None Include="..\..\..\..\Documents\HCMUS\ATPHDL\Z_2023_22\03.01\source\test.bin" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

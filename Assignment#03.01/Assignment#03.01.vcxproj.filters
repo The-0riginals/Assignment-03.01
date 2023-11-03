@@ -19,4 +19,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Documents\HCMUS\ATPHDL\Z_2023_22\03.01\source\test.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\Documents\HCMUS\ATPHDL\Z_2023_22\03.01\19120659-20120382-lab3_1.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
